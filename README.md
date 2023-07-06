@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shivangis-24
-- 👀 I’m interested in creating real-world solutions using Machine Learning and AI
-- 🌱 
-- 💞️ I’m looking to collaborate on projects ranging from a wide variety from Healthcare to Customer Experience 
+- 👀 I am a Machine Learning Engineer with extensive experience in NLP, LLMs, Computer Vision and Deep Learning.
+- 🌱 I have a Masters Degree in Artificial Intelligence from Northwestern University and a Bachelors in Computer Science from BITS Pilani. 
 - 📫 Please reach out to me on shivangi96.ss@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/shivangi-sharma01.
 
 <!---
